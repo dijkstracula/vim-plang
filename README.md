@@ -18,7 +18,7 @@ This is a Vim syntax plugin for the [P][p_homepage] language.
 
 ## Using NeoVim and [Vim-Plug][vp]
 
-1. Add `Plug 'dijkstracula/vim-ivy'` to your e.g. `~/.config/nvim/plugins.vim`
+1. Add `Plug 'dijkstracula/vim-plang'` to your e.g. `~/.config/nvim/plugins.vim`
 2. Save and run `:PlugInstall`
 
 (For a local installation for development purposes, adjust step 1 to
