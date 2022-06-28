@@ -2,6 +2,8 @@
 
 This is a Vim syntax plugin for the [P][p_homepage] language.
 
+![](screenshot.png)
+
 ## Installation
 
 ### Using [Vundle][v]
